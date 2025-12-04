@@ -1,6 +1,8 @@
 using LocalDeploy.Forms;
 using Microsoft.Extensions.Configuration;
 
+// Comment for sync test
+
 namespace LocalDeploy;
 
 internal static class Program
