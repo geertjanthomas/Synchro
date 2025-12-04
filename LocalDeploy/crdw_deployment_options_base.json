@@ -1,0 +1,52 @@
+﻿{
+  "Databases": {
+    "Basel": true,
+    "BFG": true,
+    "CFOPORTAL": true,
+    "CRDW_DV": true,
+    "CRDW_EM": true,
+    "CRDW_GBV": true,
+    "CRDW_MetaData": true,
+    "CRDW_SA": true,
+    "CRDW_SM": true,
+    "CRDW_Validations": true,
+    "DataHub": true,
+    "master": true
+  },
+  "Ispacs": {
+    "Rabobank_CRDW_BranchFileGenerator": true,
+    "Rabobank_CRDW_BusinessDataVault": true,
+    "Rabobank_CRDW_Configuration": true,
+    "Rabobank_CRDW_CPRBusinessRules": true,
+    "Rabobank_CRDW_Datavault_Bookmarker": true,
+    "Rabobank_CRDW_Export": true,
+    "Rabobank_CRDW_FileHandling": true,
+    "Rabobank_CRDW_MasterLoad": true,
+    "Rabobank_CRDW_MetricDataVault": true,
+    "Rabobank_CRDW_Migration": true,
+    "Rabobank_CRDW_PortalDataVault": true,
+    "Rabobank_CRDW_ProvisionInitialLoad": true,
+    "Rabobank_CRDW_RawDataVault": true,
+    "Rabobank_CRDW_ReferenceDataVault": true,
+    "Rabobank_CRDW_SSRSReportGenerator": true,
+    "Rabobank_CRDW_StagingDataPull": true,
+    "Rabobank_CRDW_StagingInterfaceLoad": true,
+    "Rabobank_CRDW_StagingLoad": true,
+    "Rabobank_CRDW_StagingManualLoad": true,
+    "Rabobank_CRDW_StagingProvisionLoad": true,
+    "Rabobank_CRDW_UCI_CRE_LQC_TemporaryInterface": true,
+    "Rabobank_CRDW_UserAccessRights": true
+  },
+  "DeploymentOptions": {
+    "Dependencies": true,
+    "SSIS packages": true,
+    "Databases": true,
+    "Download artifacts": true,
+    "Reports": true,
+    "PostDeploymentScripts": true,
+    "PreDeploymentScripts": true,
+    "PostReleaseScripts": true,
+    "PreReleaseScripts": true,
+    "ReleaseName": "CRDW - Development branch"
+  }
+}
