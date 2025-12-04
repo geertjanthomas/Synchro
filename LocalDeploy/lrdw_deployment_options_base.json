@@ -1,0 +1,38 @@
+﻿{
+  "CrdwDatabases": {
+    "CRDW_MetaData": true,
+    "CRDW_SA": true,
+    "CRDW_EM": true,
+    "CRDW_DV": true
+  },
+  "Databases": {
+    "AnaCredit": true,
+    "CAS": true,
+    "COREP": true,
+    "FCLinking": false,
+    "LRDW_Archive": true,
+    "LRDW_DataVault": true,
+    "LRDW_MetaData": true,
+    "LRDW_Staging": true,
+    "Promisse": true,
+    "RDW_Disclosure": true
+  },
+  "Ispacs": {
+    "LRDW_DataVault": true,
+    "LRDW_Export": true,
+    "LRDW_RuleVault": true,
+    "LRDW_Staging": true
+  },
+  "DeploymentOptions": {
+    "Download artifacts": true,
+    "Create Directories": true,
+    "Pre-Deployment Scripts": true,
+    "Pre-Release Scripts": true,
+    "Deploy CRDW database": true,
+    "Deploy Databases": true,
+    "Deploy SSIS Projects": true,
+    "Post-Release Scripts": true,
+    "Post-Deployment Scripts": true,
+    "ReleaseName": "LRDW - Development branch"
+  }
+}
