@@ -1,6 +1,0 @@
-﻿{
-  "DeploymentOptions": {
-    "Database": true,
-    "BranchName": "master"
-  }
-}
