@@ -1,0 +1,8 @@
+﻿{
+  "DeploymentOptions": {
+    "Download artifacts": true,
+    "Dashboard": true,
+    "Run": false,
+    "ReleaseName": "RDW Dashboard Only"
+  }
+}
